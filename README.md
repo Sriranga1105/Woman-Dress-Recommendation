@@ -38,6 +38,13 @@ We chose VGG16 because:
 
 * Its architecture works great for extracting meaningful image features.
 
+## 💻 System Requirement ##
+* Operating System: Windows 10 or Above
+
+* IDE: PyCharm or VS Code
+* Programming Language: Python (use current updated version)
+* Python libraries: Flet (use current updated version)
+
 ## 🔧 How to Run ##
 1. Clone the repository:
 ```bash
