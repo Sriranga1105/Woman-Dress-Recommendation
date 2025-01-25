@@ -49,7 +49,7 @@ We chose VGG16 because:
 1. Clone the repository:
 ```bash
 git clone https://github.com/Sriranga1105/Woman-Dress-Recommendation.git
-CD cd woman-fashion-recommendation
+cd woman-fashion-recommendation
 ```
 
 2. Install the dependencies:
